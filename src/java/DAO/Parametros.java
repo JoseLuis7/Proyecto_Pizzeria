@@ -12,5 +12,5 @@ public interface Parametros {
     String DRIVER="com.mysql.cj.jdbc.Driver";
     String RUTA="jdbc:mysql://localhost:3306/pizzeria_don_jose";
     String USUARIO="root";
-    String PASS="admin";
+    String PASS="";
 }
